@@ -3,6 +3,8 @@
 ### 🎮 Fresher Unity Developer | 2D & 3D Game Enthusiast
 
 I'm an aspiring **Unity Developer** with a passion for creating **2D and 3D games**. As a fresher, I'm actively learning and implementing **multiplayer functionalities** using **Photon Fusion 2** and **Firebase** to enhance online gaming experiences.
+- 📍 Currently based in Ho Chi Minh City, Vietnam.
+- 💡 Working on pet projects to improve my skills and build exciting games.
 
 ## 🔥 Skills & Learning Areas
 
